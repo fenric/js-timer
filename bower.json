@@ -1,0 +1,19 @@
+{
+	"license": "MIT",
+	"name": "fenric-js-timer",
+	"description": "Simple Timer.",
+	"homepage": "https://github.com/fenric/js.timer",
+	"main": "src/timer.js",
+	"keywords": [
+		"fenric",
+		"timer",
+		"timeout"
+	],
+	"authors": [
+		"Anatoly Fenric <anatoly.fenric@gmail.com>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fenric/js-timer.git"
+	}
+}
