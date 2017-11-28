@@ -2,7 +2,7 @@
 	"license": "MIT",
 	"name": "fenric-js-timer",
 	"description": "Simple Timer.",
-	"homepage": "https://github.com/fenric/js.timer",
+	"homepage": "https://github.com/fenric/js-timer",
 	"main": "src/timer.js",
 	"keywords": [
 		"fenric",

@@ -1,4 +1,4 @@
-# Simple Timer.
+# Simple Timer
 
 ### Install via bower
 ```
